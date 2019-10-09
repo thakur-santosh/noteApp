@@ -7,4 +7,3 @@ application which keep track of your notes.
 * mongoose
 
 
-https://github.com/thakur-santosh/noteApp.git
