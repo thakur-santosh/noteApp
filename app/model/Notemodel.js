@@ -16,6 +16,10 @@ const noteSchema = new Schema({
     createdAt : {
         type : Date,
         default : Date.now
+    },
+    category : {
+        type : Schema.Types.ObjectId,
+        ref : 'Category'
     }
 })
  
